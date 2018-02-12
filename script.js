@@ -1,6 +1,6 @@
 // Set the date we're counting down to
-var countDownDate = new Date(Date.UTC("Jan 30, 2018 12:00:00")).getTime();
-var countDownDate = new Date(Date.UTC(2018, 0, 30, 23, 0, 0)).getTime();
+var countDownDate = new Date(Date.UTC("Feb 12, 2018 8:00:00")).getTime();
+var countDownDate = new Date(Date.UTC(2018, 1, 12, 16, 0, 0)).getTime();
 
 console.log("Hi mom.");
 
